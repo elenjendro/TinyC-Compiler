@@ -9,7 +9,7 @@ An implementation from a tinyC compiler made for a University class.
 For downloading you could clone the project with the following command:
 
 ```bash
-$ git clone https://github.com/elenjendro/Space_Puncher.git
+$ git clone https://github.com/elenjendro/TinyC-Compiler.git
 ```
 
 Ones you have the project directory in your system execute the Makefile with the following command:
