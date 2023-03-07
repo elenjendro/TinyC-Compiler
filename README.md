@@ -4,6 +4,8 @@
 
 An implementation from a tinyC compiler made for a University class.
 
+For more information see: [documentation](./documentation.md).
+
 ## Instalation Guide:
 
 For downloading you could clone the project with the following command:
